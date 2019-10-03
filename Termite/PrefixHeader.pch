@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  Termite
+//
+//  Created by Jeremy Legendre on 10/2/19.
+//Copyright © 2019 Jeremy Legendre. All rights reserved.
+//
+
+#ifndef Termite_PrefixHeader_pch
+#define Termite_PrefixHeader_pch
+
+#import <Cocoa/Cocoa.h>
+
+#endif
+
